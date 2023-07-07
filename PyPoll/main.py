@@ -80,7 +80,7 @@ Winner: {winner}
 -----------------------------------''')
 
 
-    # Output to a text file
+    # Output to a txt file
     file = open("output.txt","w")
     file.write(f'''Election Results
 -----------------------------------
