@@ -39,4 +39,7 @@ Raymon_Anthony_Doane: 3.139% (11606)
 Winner: Diana_DeGette
 -----------------------------------
 
+# Acknowledgments 
+For this assignment, I used the BCS learning assistent to help me fix some csv coding problems. My tutor was David Friedman. In addition, I attended office hours on Thursday, July 6th to ask for help on how to submit it to Github 
+I also used the module 3 challenge instructions to guide me through the project. The code is within each PyPoll and PyBank folders under the file main.py. 
 
